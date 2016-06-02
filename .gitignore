@@ -1,0 +1,6 @@
+*.pro.*
+build/
+lib/
+Makefile
+logfile*
+*.py~
